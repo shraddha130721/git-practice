@@ -1,0 +1,2 @@
+Part A: five commits, one small change each
+For every change, follow this loop before committing.
