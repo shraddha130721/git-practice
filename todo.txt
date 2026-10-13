@@ -1,0 +1,2 @@
+Day 4 is complete: SSH key, first push, and fetch vs pull.
+Day 5: branches, merges, tracking branches, detached HEAD
