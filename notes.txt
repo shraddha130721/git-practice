@@ -2,3 +2,4 @@ Part A: five commits, one small change each
 For every change, follow this loop before committing:
 Edit the file.
 Part B: undo uncommitted changes
+Part E: detached HEAD
